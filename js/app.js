@@ -1,2 +1,1 @@
-//document.body.style.backgroundColor = "red";
-//test me
+document.body.style.backgroundColor = "red";

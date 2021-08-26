@@ -129,3 +129,6 @@ input,
 select {
 	vertical-align: middle;
 }
+body {
+	color: red;
+}
